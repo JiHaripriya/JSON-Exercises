@@ -1,0 +1,65 @@
+{
+    "Featured_products": [
+        {
+            "_id": "Product1",
+            "title": "Tulsi California Almond Premium, 200g",
+            "img": "images/product01.png",
+            "price": "₹200",
+            "packet_size": {
+                "size1": 100.5,
+                "offerRate1": 190.5,
+                "size2": 200.5,
+                "offerRate2": 290.5 
+            }
+        },
+        {
+            "_id": "Product2",
+            "title": "Tulsi California Almond Premium, 200g",
+            "img": "images/product02.png",
+            "price": "₹200",
+            "packet_size": {
+                "size1": 100.5,
+                "offerRate1": 190.5,
+                "size2": 200.5,
+                "offerRate2": 290.5 
+            }
+        },
+        {
+            "_id": "Product3",
+            "title": "Tulsi California Almond Premium, 200g",
+            "img": "images/product09.png",
+            "price": "₹200",
+            "packet_size": {
+                "size1": 100.5,
+                "offerRate1": 190.5,
+                "size2": 200.5,
+                "offerRate2": 290.5 
+            }
+        },
+        {
+            "_id": "Product4",
+            "title": "Tulsi California Almond Premium, 200g",
+            "img": "images/product03.png",
+            "price": "₹200",
+            "packet_size": {
+                "size1": 100.5,
+                "offerRate1": 190.5,
+                "size2": 200.5,
+                "offerRate2": 290.5 
+            }
+        },
+        {
+            "_id": "Product5",
+            "title": "Tulsi California Almond Premium, 200g",
+            "img": "images/product04.png",
+            "price": "₹200",
+            "packet_size": {
+                "size1": 100.5,
+                "offerRate1": 190.5,
+                "size2": 200.5,
+                "offerRate2": 290.5 
+            }
+        }
+
+    ]
+}

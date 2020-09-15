@@ -1,0 +1,167 @@
+{
+    "category1":
+    {
+        "title":"Fruits & Vegetables",
+        "options":{
+            
+            "option1":{
+                "title":"Herbs",
+                "subOptions":{
+                    
+                    "subOption1":{
+                        "title":"Lemon",
+                        "moreOptions": null
+                    },
+                    "subOption2":{
+                        "title":"Ginger",
+                        "moreOptions": null
+                    }
+                }
+            },
+            
+            "option2":{
+                "title":"Fresh Fruit",
+                "moreOptions": null
+            },
+            
+            "option3":{
+                "title":"organic",
+                "moreOptions": null
+            },
+            
+            "option4":{
+                "title":"Exotic",
+                "moreOptions": null
+            },
+            
+            "option5":{
+                "title":"Cuts",
+                "moreOptions": null
+            }
+            
+        }
+    },
+    
+    "category2":{
+        "title":"Milk & Milk Products",
+        "options":{
+            
+            "option1":{
+                "title":"Herbs",
+                "moreOptions": null
+            },
+            
+            "option2":{
+                "title":"Fresh Fruit",
+                "moreOptions": null
+            },
+            
+            "option3":{
+                "title":"organic",
+                "moreOptions": null
+            },
+            
+            "option4":{
+                "title":"Exotic",
+                "moreOptions": null
+            },
+            
+            "option5":{
+                "title":"Cuts",
+                "moreOptions": null
+            }
+        }
+    },
+    
+    "category3":
+    {
+        "title":"Egg & Egg Products",
+        "moreOptions": null
+    },
+    
+    "category4":
+    {
+        "title":"Bread & Bakery",
+        "options":{
+            
+            "option1":{
+                "title":"Bread",
+                "moreOptions": null
+            },
+            
+            "option2":{
+                "title":"Bread",
+                "moreOptions": null
+            },
+            
+            "option3":{
+                "title":"Bread",
+                "moreOptions": null
+            },
+            
+            "option4":{
+                "title":"Bread",
+                "moreOptions": null
+            },
+            
+            "option5":{
+                "title":"Bread",
+                "moreOptions": null
+            }
+            
+        }
+    },
+    
+    "category5":
+    {
+        "title":"Fruits & Vegetables",
+        "options":{
+
+            "option1":{
+                "title":"Dropdown Link 5",
+                "moreOptions": null
+            },
+
+            "option2":{
+                "title":"Orange",
+                "moreOptions": null
+            },
+            
+            "option3":{
+                "title":"Orange",
+                "moreOptions": null
+            },
+            
+            "option4":{
+                "title":"Orange",
+                "moreOptions": null
+            },
+            
+            "option5":{
+                "title":"Orange",
+                "moreOptions": null
+            },
+            
+            "option6":{
+                "title":"Orange",
+                "subOptions":{
+                    
+                    "subOption1":{
+                        "title":"Orange",
+                        "moreOptions": null
+                    },
+                    
+                    "subOption2":{
+                        "title":"Orange",
+                        "moreOptions": null
+                    },
+                    
+                     "subOption3":{
+                        "title":"Orange",
+                        "moreOptions": null
+                    }
+                }
+            }
+        }
+    }
+}
