@@ -1,0 +1,35 @@
+{
+    "snacks": [
+        {
+            "_id": "Product1",
+            "offertxt": "15% Off",
+            "img": "images/product01.png",
+            "title": "Tulsi California Almond Premium, 200g"
+        },
+        {
+            "_id": "Product2",
+            "offertxt": "15% Off",
+            "img": "images/product02.png",
+            "title": "Tulsi California Almond Premium, 200g"
+        },
+        {
+            "_id": "Product3",
+            "offertxt": "15% Off",
+            "img": "images/product09.png",
+            "title": "Tulsi California Almond Premium, 200g"
+        },
+        {
+            "_id": "Product4",
+            "offertxt": "15% Off",
+            "img": "images/product03.png",
+            "title": "Tulsi California Almond Premium, 200g"
+        },
+        {
+            "_id": "Product5",
+            "offertxt": "15% Off",
+            "img": "images/product04.png",
+            "title": "Tulsi California Almond Premium, 200g"
+        }
+
+    ]
+}
