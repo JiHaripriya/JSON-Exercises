@@ -1,0 +1,76 @@
+{
+    "appliances":[
+        {
+            "id": 1,
+            "offertxt": "30% Off",
+            "img": "images/tv.jpg",
+            "title": "SAMSUNG LED TV",
+            "oldPrice": "₹12000.00",
+            "salePrice": "₹8000.00",
+            "favorited": false
+        },
+        {
+            "id": 2,
+            "offertxt": null,
+            "img": "images/washingmechine.jpg",
+            "title": "IFB",
+            "oldPrice": null,
+            "salePrice": "₹14000.00",
+            "favorited": false
+        },
+        {
+            "id": 3,
+            "offertxt": null,
+            "img": "images/fridge.jpg",
+            "title": "WHIRLPOOL",
+            "oldPrice": null,
+            "salePrice": "₹2000.00",
+            "favorited": false
+        },
+        {
+            "id": 4,
+            "offertxt": null,
+            "img": "images/ovan.jpg",
+            "title": "PHILIPS",
+            "oldPrice": null,
+            "salePrice": "₹5000.00",
+            "favorited": false
+        },
+        {
+            "id": 5,
+            "offertxt": "30% Off",
+            "img": "images/fan.jpg",
+            "title": "V-GUARD",
+            "oldPrice": "₹2500.00",
+            "salePrice": "₹1650.00",
+            "favorited": false
+        },
+        {
+            "id": 6,
+            "offertxt": null,
+            "img": "images/ironbox.jpg",
+            "title": "NATIONAL",
+            "oldPrice": null,
+            "salePrice": "₹1200.00",
+            "favorited": false
+        },
+        {
+            "id": 7,
+            "offertxt": null,
+            "img": "images/ac.jpg",
+            "title": "WHIRLPOOL",
+            "oldPrice": null,
+            "salePrice": "₹32000.00",
+            "favorited": false
+        },
+        {
+            "id": 8,
+            "offertxt": null,
+            "img": "images/mixy.jpg",
+            "title": "BUTTERFLY MIXER GRINDER",
+            "oldPrice": null,
+            "salePrice": "₹120.00",
+            "favorited": false
+        }        
+    ]
+}
