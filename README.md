@@ -17,3 +17,6 @@ Exercise4.json contains "comments" of product. <br/>
 
 <i> See Image reference Exercise5/Exercise5.png </i><br/>
 Variables are supplied as input to JSON.
+
+### Exercise 6: JSON for Back-end to Front End content of Consumerfed WebApp
+Exercise6 contains all json files that represent dynamic contents of Consumerfed Homepage.
