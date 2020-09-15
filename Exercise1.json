@@ -1,11 +1,13 @@
 {
-	"email": "email@gmail.com",
-	"pass": "pwd123",
+	"Email": "email@gmail.com",
+	"Pass": "pwd123",
 	"confirmPass": "pwd123",
 	"firstName": "First Name",
 	"lastName": "Last Name",
-	"location": "Location At",
+	"Location": "Location At",
+	"Pin": 695589,
 	"studyMethod": "6 weeks",
 	"allowDataUse": true,
-	"receiveUpdates": true
+	"receiveUpdates": false
+
 }
