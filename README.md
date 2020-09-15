@@ -2,7 +2,7 @@
 This Repository is for sample JSON exercises of interest.
 
 ### Exercise 1: Datatypes of JSON 
-<i> Exercise1.json was prepared for Sign Up Page in: https://course.elementsofai.com/signup </i><br/>
+Exercise1.json was prepared for Sign Up Page in: https://course.elementsofai.com/signup<br/>
 
 ### Exercise 2: Array Value
 Exercise2.json contains "features" of product. <br/>
