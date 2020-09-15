@@ -1,0 +1,76 @@
+{
+    "FnV":[
+        {
+            "id": 1,
+            "offertxt": "30% Off",
+            "img": "images/product-1.jpg",
+            "title": "BELL PEPPER",
+            "oldPrice": "$120.00",
+            "salePrice": "$80.00",
+            "favorited": false
+        },
+        {
+            "id": 2,
+            "offertxt": null,
+            "img": "images/product-2.jpg",
+            "title": "STRAWBERRY",
+            "oldPrice": null,
+            "salePrice": "₹120.00",
+            "favorited": false
+        },
+        {
+            "id": 3,
+            "offertxt": null,
+            "img": "images/product-3.jpg",
+            "title": "GREEN BEANS",
+            "oldPrice": null,
+            "salePrice": "₹120.00",
+            "favorited": false
+        },
+        {
+            "id": 4,
+            "offertxt": null,
+            "img": "images/product-4.jpg",
+            "title": "PURPLE CABBAGE",
+            "oldPrice": null,
+            "salePrice": "₹120.00",
+            "favorited": false
+        },
+        {
+            "id": 5,
+            "offertxt": "30% Off",
+            "img": "images/product-5.jpg",
+            "title": "TOMATOE",
+            "oldPrice": "₹120.00",
+            "salePrice": "₹80.00",
+            "favorited": false
+        },
+        {
+            "id": 6,
+            "offertxt": null,
+            "img": "images/product-6.jpg",
+            "title": "BROCOLLI",
+            "oldPrice": null,
+            "salePrice": "₹120.00",
+            "favorited": false
+        },
+        {
+            "id": 7,
+            "offertxt": null,
+            "img": "images/product-7.jpg",
+            "title": "CARROTS",
+            "oldPrice": null,
+            "salePrice": "₹120.00",
+            "favorited": false
+        },
+        {
+            "id": 8,
+            "offertxt": null,
+            "img": "images/product-8.jpg",
+            "title": "FRUIT JUICE",
+            "oldPrice": null,
+            "salePrice": "₹120.00",
+            "favorited": false
+        }        
+    ]
+}
