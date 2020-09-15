@@ -1,0 +1,9 @@
+{
+    "home_delivery": {
+        "pincode": PINCODE,
+        "house_flat_no": HOUSE_or_FLAT_NO,
+        "address": ADDRESS,
+        "city": CITY,
+        "state": STATE
+    }
+}
