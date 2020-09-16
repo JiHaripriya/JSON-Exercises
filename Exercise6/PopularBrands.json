@@ -1,37 +1,30 @@
 {
     "brands": [
         {
-            "id": 1,
             "img": "images/brand/aashirvaad.jpg",
             "alt": ""
         },
         {
-            "id": 2,
             "img": "images/brand/amul.jpg",
             "alt": ""
         },
         {
-            "id": 3,
             "img": "images/brand/colgate.jpg",
             "alt": ""
         },
         {
-            "id": 4,
             "img": "images/brand/dove.jpg",
             "alt": ""
         },
         {
-            "id": 5,
             "img": "images/brand/indiagate.jpg",
             "alt": ""
         },
         {
-            "id": 6,
             "img": "images/brand/lifeboy.jpg",
             "alt": ""
         },
         {
-            "id": 7,
             "img": "images/brand/nirapara.jpg",
             "alt": ""
         }

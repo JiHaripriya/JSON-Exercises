@@ -1,11 +1,11 @@
 {
     "Featured_products": [
         {
-            "_id": "Product1",
+            "id": "Product1",
             "offertxt": "15% Off",
             "img": "images/product01.png",
             "title": "Tulsi California Almond Premium, 200g",
-            "price": "₹200",
+            "price": 200,
             "packet_size": {
                 "size1": 100.5,
                 "offerRate1": 190.5,
@@ -14,11 +14,11 @@
             }
         },
         {
-            "_id": "Product2",
+            "id": "Product2",
             "offertxt": "15% Off",
             "img": "images/product02.png",
             "title": "Tulsi California Almond Premium, 200g",
-            "price": "₹200",
+            "price": 200,
             "packet_size": {
                 "size1": 100.5,
                 "offerRate1": 190.5,
@@ -27,11 +27,11 @@
             }
         },
         {
-            "_id": "Product3",
+            "id": "Product3",
             "offertxt": "15% Off",
             "img": "images/product09.png",
             "title": "Tulsi California Almond Premium, 200g",
-            "price": "₹200",
+            "price": 200,
             "packet_size": {
                 "size1": 100.5,
                 "offerRate1": 190.5,
@@ -40,11 +40,11 @@
             }
         },
         {
-            "_id": "Product4",
+            "id": "Product4",
             "offertxt": "15% Off",
             "img": "images/product03.png",
             "title": "Tulsi California Almond Premium, 200g",
-            "price": "₹200",
+            "price": 200,
             "packet_size": {
                 "size1": 100.5,
                 "offerRate1": 190.5,
@@ -53,11 +53,11 @@
             }
         },
         {
-            "_id": "Product5",
+            "id": "Product5",
             "offertxt": "15% Off",
             "img": "images/product04.png",
             "title": "Tulsi California Almond Premium, 200g",
-            "price": "₹200",
+            "price": 200,
             "packet_size": {
                 "size1": 100.5,
                 "offerRate1": 190.5,

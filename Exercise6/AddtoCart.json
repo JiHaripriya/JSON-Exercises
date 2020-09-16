@@ -1,0 +1,14 @@
+{
+    "inCart":{
+        "products": [
+            {
+                "productID": productID,
+                "productName": TITLE,
+                "quantity": COUNT,
+                "itemPrice": PRICE,
+                "buyingPrice": COUNT_PRICE
+            }
+        ],
+        "totalPrice": SUM_BUYING_PRICE
+    }
+}
