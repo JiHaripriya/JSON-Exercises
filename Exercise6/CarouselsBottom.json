@@ -1,12 +1,10 @@
-{
-    "content": [
-        {
-            "img": "images/mango.jpg",
-            "alt": ""
-        },
-        {
-            "img": "images/organic.jpg",
-            "alt": ""
-        } 
-    ]
-}
+[
+    {
+        "img": "images/mango.jpg",
+        "alt": ""
+    },
+    {
+        "img": "images/organic.jpg",
+        "alt": ""
+    } 
+]

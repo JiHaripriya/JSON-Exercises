@@ -1,5 +1,6 @@
 {
-    "Featured_products": [
+    "section": "Featured Products",
+    "products": [
         {
             "id": "Product1",
             "offertxt": "15% Off",

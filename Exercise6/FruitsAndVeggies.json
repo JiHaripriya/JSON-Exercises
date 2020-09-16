@@ -1,5 +1,6 @@
 {
-    "FnV":[
+    "section":"Fruits and Vegitables",
+    "products": [
         {
             "id": 1,
             "offertxt": "30% Off",

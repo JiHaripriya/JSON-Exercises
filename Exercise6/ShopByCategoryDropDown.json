@@ -6,34 +6,40 @@
             
             "option1":{
                 "title":"Herbs",
-                "subOptions":{
-                    
-                    "subOption1":{
-                        "title":"Lemon"
+                "url": null,
+                "subOptions":[
+                    {
+                        "title":"Lemon",
+                        "url": URL
                     },
-                    "subOption2":{
-                        "title":"Ginger"
+                    {
+                        "title":"Ginger",
+                        "url": URL
                     }
-                }
+                ]
             },
             
             "option2":{
                 "title":"Fresh Fruit",
+                "url": URL,
                 "subOptions": null
             },
             
             "option3":{
                 "title":"organic",
+                "url": URL,
                 "subOptions": null
             },
             
             "option4":{
                 "title":"Exotic",
+                "url": URL,
                 "subOptions": null
             },
             
             "option5":{
                 "title":"Cuts",
+                "url": URL,
                 "subOptions": null
             }
             
@@ -46,26 +52,31 @@
             
             "option1":{
                 "title":"Herbs",
+                "url": URL,
                 "subOptions": null
             },
             
             "option2":{
                 "title":"Fresh Fruit",
+                "url": URL,
                 "subOptions": null
             },
             
             "option3":{
                 "title":"organic",
+                "url": URL,
                 "subOptions": null
             },
             
             "option4":{
                 "title":"Exotic",
+                "url": URL,
                 "subOptions": null
             },
             
             "option5":{
                 "title":"Cuts",
+                "url": URL,
                 "subOptions": null
             }
         }
@@ -74,6 +85,7 @@
     "category3":
     {
         "title":"Egg & Egg Products",
+        "url": URL,
         "options": null
     },
     
@@ -84,26 +96,31 @@
             
             "option1":{
                 "title":"Bread",
+                "url": URL,
                 "subOptions": null
             },
             
             "option2":{
                 "title":"Bread",
+                "url": URL,
                 "subOptions": null
             },
             
             "option3":{
                 "title":"Bread",
+                "url": URL,
                 "subOptions": null
             },
             
             "option4":{
                 "title":"Bread",
+                "url": URL,
                 "subOptions": null
             },
             
             "option5":{
                 "title":"Bread",
+                "url": URL,
                 "subOptions": null
             }
             
@@ -117,45 +134,53 @@
 
             "option1":{
                 "title":"Dropdown Link 5",
+                "url": URL,
                 "subOptions": null
             },
 
             "option2":{
                 "title":"Orange",
+                "url": URL,
                 "subOptions": null
             },
             
             "option3":{
                 "title":"Orange",
+                "url": URL,
                 "subOptions": null
             },
             
             "option4":{
                 "title":"Orange",
+                "url": URL,
                 "subOptions": null
             },
             
             "option5":{
                 "title":"Orange",
+                "url": URL,
                 "subOptions": null
             },
             
             "option6":{
                 "title":"Orange",
-                "subOptions":{
-                    
-                    "subOption1":{
-                        "title":"Orange"
+                "url": null,
+                "subOptions":[
+                    {
+                        "title":"Orange",
+                        "url": URL
                     },
                     
-                    "subOption2":{
-                        "title":"Orange"
+                    {
+                        "title":"Orange",
+                        "url": URL
                     },
                     
-                     "subOption3":{
-                        "title":"Orange"
+                     {
+                        "title":"Orange",
+                        "url": URL
                     }
-                }
+                ]
             }
         }
     }
